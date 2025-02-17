@@ -7,7 +7,7 @@
 I'm an aspiring software developer and track athlete training for the 2028 Paralympics. I thrive at the intersection of technology and sports, building accessible and inclusive web experiences with Next.js, TypeScript, and Tailwind CSS.-->
 
  🏃‍♂️ Para-Athlete | Tech meets Sports</br>
- 🔨 Building Accessible Para-Sports Hub | A resource for para-sports enthusiasts</br>
+ 🔨 Building [Para Class App](https://github.com/JohnBridge1/ParaClassApp) | A resource for para-sports enthusiasts</br>
  💻 Passionate about Web Development, Mobile App Development and Software development</br>
  🌍 Aspiring digital nomad | Exploring remote work opportunities</br>
  🛠 Learning: Supabase, PostgreSQL</br>
