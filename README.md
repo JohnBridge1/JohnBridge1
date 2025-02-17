@@ -21,7 +21,7 @@ I'm an aspiring software developer and track athlete training for the 2028 Paral
 
 ## 🏆 Awards
  🥈 Silver Medalist in Senior Para European Championship in (Poland 2021) / 400 meters <br>
- 🇬🇧 British Educational Award (2020) : (https://twitter.com/john_t47/status/1223337250588676101)
+ 🇬🇧 British Educational Award (2020) : [![Twitter](https://img.icons8.com/fluency/24/twitter.png)](https://twitter.com/john_t47/status/1223337250588676101)
 
 
 ## 💬 Connect with Me <br>
