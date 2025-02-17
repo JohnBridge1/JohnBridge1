@@ -2,9 +2,8 @@
 **JohnBridge1/JohnBridge1** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile. -->
 # John Bridge
 
-<!--
-🚀 About Me
-I'm an aspiring software developer and track athlete training for the 2028 Paralympics. I thrive at the intersection of technology and sports, building accessible and inclusive web experiences with Next.js, TypeScript, and Tailwind CSS.-->
+## 🚀 About Me
+I'm an aspiring software developer and track athlete training for the 2028 Paralympics. I thrive at the intersection of technology and sports, building accessible and inclusive web experiences with Next.js, TypeScript, and Tailwind CSS.
 
  🏃‍♂️ Para-Athlete | Tech meets Sports</br>
  🔨 Building [Para Class App](https://github.com/JohnBridge1/ParaClassApp) | A resource for para-sports enthusiasts</br>
@@ -17,6 +16,8 @@ I'm an aspiring software developer and track athlete training for the 2028 Paral
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br />
 
 ## 🏆 Awards
