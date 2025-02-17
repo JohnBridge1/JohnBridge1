@@ -24,6 +24,6 @@ I'm an aspiring software developer and track athlete training for the 2028 Paral
  🇬🇧 British Educational Award (2020) : (https://twitter.com/john_t47/status/1223337250588676101)
 
 
-📫 Connect with Me <br>
+💬 Connect with Me <br>
 [![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/john.bridge.t47/)
 [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/john-bridge-bsc-923796214/)
