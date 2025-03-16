@@ -3,7 +3,7 @@
 # John Bridge
 
 ## 🚀 About Me
-I'm an aspiring software developer and track athlete training for the 2028 Paralympics. I thrive at the intersection of technology and sports, building accessible and inclusive web experiences with Next.js, TypeScript, and Tailwind CSS.
+I'm an aspiring software developer and track athlete training for the 2028 Paralympics. I thrive at the intersection of technology and sports, building accessible and inclusive web experiences with Next.js.
 
  🏃‍♂️ Para-Athlete | Tech meets Sports</br>
  🔨 Building [Para Class App](https://github.com/JohnBridge1/ParaClassApp) | A resource for para-sports enthusiasts</br>
