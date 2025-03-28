@@ -30,4 +30,4 @@ I'm an aspiring software developer and track athlete training for the 2028 Paral
 
 ## 💬 Connect with Me <br>
 [![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/john.bridge.t47/)
-[![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/john-bridge-bsc-923796214/)
+[![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/johnbridge1st/)
