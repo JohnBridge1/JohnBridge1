@@ -9,7 +9,7 @@ I'm an aspiring software developer and track athlete training for the 2028 Paral
  🔨 Building [Para Class App](https://github.com/JohnBridge1/ParaClassApp) | A resource for para-sports enthusiasts</br>
  💻 Passionate about Web, Mobile App, and Software Development</br>
  🌍 Aspiring digital nomad | Exploring remote work opportunities</br>
- 🛠 Learning: Supabase, PostgreSQL</br>
+ 🛠 Learning: React </br>
 
 ## 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -17,6 +17,10 @@ I'm an aspiring software developer and track athlete training for the 2028 Paral
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 [![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<br />
+
 <br />
 <!---
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
